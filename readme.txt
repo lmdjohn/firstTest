@@ -15,3 +15,5 @@ change
 fenzhiadd
 if you baby no or not more
 add heeh
+niheta woheni zheshigefengcidejiaoji
+试一试 stash 的功能如何
